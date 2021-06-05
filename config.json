@@ -1,0 +1,16 @@
+{
+    "zwift": {
+        "username": "",
+        "password": ""
+    },
+    "strava": {
+        "kk": {
+            "username": "",
+            "password": ""
+        },
+        "eva": {
+            "username": "",
+            "password": ""
+        }
+    }
+}
